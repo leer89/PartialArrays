@@ -16,6 +16,7 @@ int search(const int a[], int number_used, int target);
 //Also, a[0] through a[number_used − 1] have values.
 //Returns the first index such that a[index] == target,
 //provided there is such an index; otherwise, returns −1.
+//Sort Array
 
 int main()
 {
